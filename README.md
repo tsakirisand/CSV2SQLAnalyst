@@ -30,6 +30,11 @@ Explore a spreadsheet-sized dataset without setting up a database server. Import
 
 > The app starts empty. Your data appears only after you import a CSV or explicitly choose **Load sample data**.
 
+##  Live Demo
+
+- **Deployed Dashboard**: [https://csv2sqlanalyst.streamlit.app](https://csv2sqlanalyst.streamlit.app)
+
+
 ## Quick start
 
 You need **Python 3.11+** and [uv](https://docs.astral.sh/uv/). From the project folder:
